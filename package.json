@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
+    "vitawind": "^2.2.4",
     "vite": "^3.2.3"
   }
 }
